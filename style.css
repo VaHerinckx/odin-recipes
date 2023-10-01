@@ -1,0 +1,11 @@
+h1, h2  {
+  text-align: center;
+  color: brown;
+}
+
+img {
+  display: block; /* Makes the image a block-level element */
+  margin: 0 auto;
+  width: 600px;
+  height: auto;
+}
